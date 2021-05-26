@@ -1,0 +1,1 @@
+{"version":3,"sources":["todo/db.cljs"],"mappings":";AAEA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAKA","names":["todo.db/default-db"],"sourcesContent":["(ns todo.db)\n\n(def default-db {:users {} :active-user \"\" :active-panel :login-panel})\n\n"]}
